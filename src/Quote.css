@@ -1,0 +1,15 @@
+.new-quote-button {
+  background-color: #8cff66;
+}
+
+.tweet-button {
+  background-color: #b3e0ff;
+}
+
+.alligner {
+  width: 75%;
+  padding: 10px;
+  margin: 80px auto;
+  text-align: center;
+  height: 70px;
+}
